@@ -1,0 +1,13 @@
+query GetShips {
+    ships {
+        ...ShipsDetail
+    }
+}
+
+fragment ShipsDetail on Ship {
+    id
+    name
+    image
+    home_port
+    type
+}

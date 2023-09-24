@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ships">Ships</string>
+    <string name="back">Back</string>
+    <string name="details">Details</string>
+    <string name="name">Name: %1$s</string>
+    <string name="home_port">Home port: %1$s</string>
+    <string name="type">Type: %1$s</string>
+</resources>
